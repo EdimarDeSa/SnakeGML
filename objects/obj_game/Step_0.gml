@@ -1,5 +1,14 @@
-/// @description Insert description here
-/// param {name} Description
-move_head()
+draw_text(100, 100, self.snake_head.alive);
 
-check_eat_food()
+if (self.snake_head.alive)
+{
+	move_head()
+
+	check_food_colision()
+
+	move_body()
+
+	check_body_colision()
+
+	move_tail()
+}

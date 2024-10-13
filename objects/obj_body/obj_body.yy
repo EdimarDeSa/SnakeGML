@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_body",
-    "path":"sprites/spr_body/spr_body.yy",
+    "name":"spr_snake_green_blob_32",
+    "path":"sprites/spr_snake_green_blob_32/spr_snake_green_blob_32.yy",
   },
   "spriteMaskId":null,
   "visible":true,

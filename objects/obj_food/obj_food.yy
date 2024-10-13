@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_food",
-    "path":"sprites/spr_food/spr_food.yy",
+    "name":"spr_apple_alt_32",
+    "path":"sprites/spr_apple_alt_32/spr_apple_alt_32.yy",
   },
   "spriteMaskId":null,
   "visible":true,
